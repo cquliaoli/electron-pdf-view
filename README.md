@@ -17,7 +17,7 @@ it works even if you navigate to a PDF file from a site, or opening a PDF file i
 a new window. a `PDFWindow` instance is just a subclass of `BrowserWindow` so it
 can be used just like it.
 
-![demo](https://github.com/cquliaoli/electron-pdf-view/blob/master/demo.png)
+![demo](https://raw.githubusercontent.com/cquliaoli/electron-pdf-view/master/demo.png)
 
 ``` javascript
 const { app } = require('electron')
