@@ -1,6 +1,6 @@
 {
   "name": "ht-pdf-window",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "electron pdf window",
   "main": "index.js",
   "scripts": {
