@@ -1,0 +1,29 @@
+{
+  "name": "ht-pdf-window",
+  "version": "1.0.5",
+  "description": "electron pdf window",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron test",
+    "lint": "standard index.js test/**/*.js"
+  },
+  "keywords": [
+    "electron",
+    "pdf",
+    "viewer",
+    "pdfjs"
+  ],
+  "dependencies": {
+    "deep-extend": "^0.6.0",
+    "file-type": "^12.4.0",
+    "got": "^9.6.0",
+    "is-electron-renderer": "^2.0.1",
+    "read-chunk": "^3.2.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "electron": "^7.0.0"
+  },
+  "author": "ht",
+  "license": "ISC"
+}
