@@ -1,13 +1,21 @@
 {
   "name": "ht-pdf-window",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "electron pdf window",
   "main": "index.js",
   "scripts": {
     "test": "electron test",
     "lint": "standard index.js test/**/*.js"
   },
-  "files": ["pdfjs/**/","test/**/*","demo.png","index.js","package.json","README.md","package-lock.json"],
+  "files": [
+    "pdfjs/**/",
+    "test/**/*",
+    "demo.png",
+    "index.js",
+    "package.json",
+    "README.md",
+    "package-lock.json"
+  ],
   "keywords": [
     "electron",
     "pdf",
