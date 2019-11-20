@@ -7,6 +7,7 @@
     "test": "electron test",
     "lint": "standard index.js test/**/*.js"
   },
+  "files": ["pdfjs/**/","test/**/*","demo.png","index.js","package.json","README.md","package-lock.json"],
   "keywords": [
     "electron",
     "pdf",
