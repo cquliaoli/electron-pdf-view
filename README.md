@@ -57,7 +57,7 @@ method.
 
 ``` js
 const { BrowserWindow } = require('electron').remote
-const PDFWindow = require('electron-pdf-window')
+const PDFWindow = require('ht-pdf-window')
 
 const win = new BrowserWindow({ width: 800, height: 600 })
 
